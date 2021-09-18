@@ -1,2 +1,2 @@
-# nhanchuynh.github.io
-Welcome to my page!
+# CS171FinalProject
+Harvard's CS 171: Visualization Final Project. Visualizing faculty connections at Harvard
